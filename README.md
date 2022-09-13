@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mingyuan-sudo
 - 👀 I’m interested in ... DS\ML\Python
-- 🌱 I’m currently learning ... ML
+- 🌱 I’m currently learning ... DS\ML
 - 💞️ I’m looking to collaborate on ... DS\ML
 - 📫 How to reach me ... wangmingyuan@outlook.com
 
